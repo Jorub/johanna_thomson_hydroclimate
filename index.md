@@ -36,4 +36,3 @@ Want more? ORCID: 0000-0002-8796-2151
 </a>
 Feel free to reach out if you're interested in collaborative research, discussions about soil physics, hydrology, or data analysis methodologies.  🌱🔬💧
 
-## [About](https://jorub.github.io/stuff/about)
