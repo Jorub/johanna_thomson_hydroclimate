@@ -33,6 +33,6 @@ Want more? ORCID: 0000-0002-8796-2151
 - Contact me: bloecher [at] fzp.czu.cz
 - ResearchGate: [Johanna R Thomson](https://www.researchgate.net/profile/Johanna-Thomson)
 
-</a>
+
 Feel free to reach out if you're interested in collaborative research, discussions about soil physics, hydrology, or data analysis methodologies.  🌱🔬💧
 
