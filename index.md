@@ -8,7 +8,7 @@ Current research interests include hydroclimatic change, especially evapotranspi
 
 ## News
 
-Find me at **EGU 2026** in Vienna, Thursday, 7 Maz 2026. Hall A, A.37. 
+Find me at **EGU 2026** in Vienna, Thursday, 7 May 2026. Hall A, A.37. [Poster here](https://github.com/Jorub/egu2026-et-topology-framework)
 
 Open to research, scientific software, and environmental data science opportunities in Germany, particularly in hydrology, climate analytics, environmental modeling, and reproducible scientific computing.
 
