@@ -31,6 +31,7 @@ Want more? ORCID: 0000-0002-8796-2151
 
 ## Let's Connect!
 - Contact me: bloecher [at] fzp.czu.cz
+- LinkedIn: [Johanna R Thomson](www.linkedin.com/in/johanna-thomson-hydroclimate)
 - ResearchGate: [Johanna R Thomson](https://www.researchgate.net/profile/Johanna-Thomson)
 
 
