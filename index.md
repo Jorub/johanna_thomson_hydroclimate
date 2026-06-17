@@ -8,13 +8,14 @@ Current research interests include hydroclimatic change, especially evapotranspi
 
 ## News
 
-Find me at **EGU 2026** in Vienna, Thursday, 7 May 2026. Hall A, A.37. [Poster here](https://github.com/Jorub/egu2026-et-topology-framework)
-
 Open to research, scientific software, and environmental data science opportunities in Germany, particularly in hydrology, climate analytics, environmental modeling, and reproducible scientific computing.
 
 ## Research and Publications
 
+
 Here are some of my recent publications:
+- **Multi-source comparison of recent terrestrial evapotranspiration trends:
+Introducing a topology framework**, 2026. [Read here](https://github.com/Jorub/egu2026-et-topology-framework)
 - **"evapoRe: An R-based application for exploratory data analysis of evapotranspiration?**, Published in **Environmental Modelling & Software**, 2026. [Read here](10.1016/j.envsoft.2026.106884) [Package here](https://cran.r-project.org/web/packages/evapoRe/index.html) 
 - **"Which Precipitation Dataset to Choose for Hydrological Studies of the Terrestrial Water Cycle?**, Published in **Bulletin of the American Meteorological Society**, 2025. [Read here](10.1175/BAMS-D-24-0306.1) [Code here](https://github.com/imarkonis/ithaca/tree/main/projects/uncertainty_prec) [Data can be obtained through pRecipe R package via the download_data() function](https://cran.r-project.org/web/packages/pRecipe/index.html) 
 - **"Unveiling the impact of potential evapotranspiration method selection on trends in hydrological cycle components across Europe"**, Published in *Hydrology and Earth System Science*, 2025. [Read here](https://doi.org/10.5194/hess-29-4395-2025) [Data and Code here](https://doi.org/10.5281/zenodo.14008649)
