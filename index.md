@@ -8,7 +8,7 @@ Current research interests include hydroclimatic change, especially evapotranspi
 
 ## News
 
-Open to research, scientific software, and environmental data science opportunities in Germany, particularly in hydrology, climate analytics, environmental modeling, and reproducible scientific computing.
+Open to research, scientific software, and environmental data science opportunities in Germany, particularly in hydrology, climate analytics, environmental modeling, and reproducible scientific computing. I am also interested in applying reproducible R-based data science, statistical validation, and uncertainty-aware analysis to real-world decision contexts beyond environmental research.
 
 ## Research and Publications
 
