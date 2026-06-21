@@ -1,3 +1,34 @@
+title: Johanna R. Thomson
+description: Hydroclimate data analysis, environmental modelling, and reproducible research
+url: "https://jorub.github.io"
+baseurl: "/johanna_thomson_hydroclimate"
+
 theme: jekyll-theme-cayman
-title: Welcome to my homepage!
-description: Hydrology · Climate Data Analysis · Environmental Modeling · Reproducible Research
+
+author:
+  name: Johanna R. Thomson
+  email: bloecher@fzp.czu.cz
+  orcid: 0000-0002-8796-2151
+  github: Jorub
+
+navigation:
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Projects & Code
+    url: /projects/
+  - title: CV
+    url: /cv/
+  - title: Contact
+    url: /contact/
+
+markdown: kramdown
+permalink: pretty
+
+exclude:
+  - .bundle
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

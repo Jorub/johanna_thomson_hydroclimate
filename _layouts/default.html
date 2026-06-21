@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#174f57">
+    <title>{% if page.title == "Home" %}{{ site.title }}{% else %}{{ page.title }} | {{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: site.description | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="site-name" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} home">
+          <span>Johanna R.</span> Thomson
+        </a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% for item in site.navigation %}
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active" aria-current="page"{% endif %}>{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content" id="main-content">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>Johanna R. Thomson<br><span>Hydroclimate data · Environmental modelling · Reproducible research</span></p>
+        <p class="footer-links">
+          <a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a>
+          <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+          <a href="mailto:{{ site.author.email }}">Email</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
