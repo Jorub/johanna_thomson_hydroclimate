@@ -100,8 +100,13 @@ Graduated with distinction, grade 1.0. Thesis work implemented a dual-permeabili
 
 ## Awards
 
-- Josef Hlávka Award
-- Stoklasa Award
+- **Roland Schlich Travel Support**, European Geosciences Union (2024), competitively awarded for presentation of research on recent changes in global terrestrial evapotranspiration
+- **Six Rector-recognised publication outputs**, Czech University of Life Sciences Prague (2020–2024), including one doctoral-research publication award and five awards for publications in first-decile Web of Science journals
+- **Josef Hlávka Prize** (2022), for exceptional ability and creative scientific achievement; selected as the Faculty of Environmental Sciences candidate
+- **Prof. Stoklasa Prize** (2022), for the best graduates of doctoral study programmes; limited to a maximum of one doctoral graduate per faculty annually
+- **Prof. Kovář Scholarship** (2021), awarded to four students for contributions to university internationalisation
+- **Prof. Babuška Prize, 1st place, Category S** (2017), awarded for the MSc thesis by the Czech Society for Mechanics and the Union of Czech Mathematicians and Physicists
+- **Two Rector Awards**, Czech University of Life Sciences Prague (2017), for an outstanding MSc thesis and excellent academic results
 
 ## Research expertise
 
